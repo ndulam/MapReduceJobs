@@ -1,0 +1,6 @@
+#[EmpNo,DOB,FName,LName,Gender,HireDate,DeptNo]
+10001,1953-09-02,Georgi,Facello,M,1986-06-26,d005
+10002,1964-06-02,Bezalel,Simmel,F,1985-11-21,d007
+10003,1959-12-03,Parto,Bamford,M,1986-08-28,d004 
+10004,1953-09-02,Ravi,Kumar,M,1986-06-26,d005
+10005,1964-06-02,Suraj,Ghimire,F,1985-11-21,d007
